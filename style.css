@@ -1,1 +1,18 @@
-style.css
+.style {
+	font-family: luminari, fantasy;
+		text-align: center;
+		color: navajowhite;
+
+}
+
+.about {
+	font-family: luminari, fantasy;
+		text-align: left;
+		color: navajowhite;
+		background-color:#cccccc; 
+	    padding: auto;
+	    border: 15px solid whitesmoke;
+	    margin: 2px;
+	    width: 200px;
+
+}
