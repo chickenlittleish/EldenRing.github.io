@@ -1,8 +1,7 @@
 .style {
 	font-family: luminari, fantasy;
-		text-align: center;
 		color: navajowhite;
-
+		right: 300px;
 }
 
 .about {
@@ -18,7 +17,7 @@
 }
 
 .topnav {
-  background-color: #333;
+  background-color: #0c0c0c;
   overflow: hidden;
 }
 
@@ -40,31 +39,31 @@
 
 
 .topnav a.active {
-  background-color: #FF3D3D;
-  color: white;
-
+  background-color: #bc9928;
+  color: black;
+  opacity: 100;
 }
 
 .topnav a.world {
-  background-color: #20C7D7;
-  color: white;
-
+  background-color: #bc9928;
+  color: black;
+  opacity: 100;
 }
 
 .topnav a.char {
-  background-color: #FF3D3D;
-  color: white;
-
+  background-color: #bc9928;
+  color: black;
+  opacity: 100;
 }
 
 .topnav a.sugg {
-  background-color: #20C7D7;
-  color: white;
-
+  background-color: #bc9928;
+  color: black;
+  opacity: 100;
 }
 
 .topnav a.gene {
-  background-color: #FF3D3D;
-  color: white;
-
+  background-color: #bc9928;
+  color: black;
+  opacity: 100;
 }
