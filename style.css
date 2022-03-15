@@ -47,6 +47,21 @@
       top: -500px;
 }
 
+.boxes3 {
+  font-family: luminari, fantasy;
+    text-align: center;
+    color: navajowhite;
+    background-color:#cccccc; 
+      padding: auto;
+      border: 15px solid whitesmoke;
+      margin: 2px;
+      width: 250px;
+      position: relative;
+      float: left;
+      left: 495px;
+      flex-wrap: around;
+}
+
 
 .topnav {
   background-color: #0c0c0c;
