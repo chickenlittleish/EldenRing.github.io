@@ -1,3 +1,45 @@
+
+.styling {
+  color: navajowhite;
+  font-family: luminari, fantasy;
+  margin-left: 450px;
+}
+
+.styling1 {
+  color: navajowhite;
+  font-family: luminari, fantasy;
+  margin-left: 900px;
+  margin-top: -190px;
+
+}
+
+#table {
+  color: navajowhite;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  border-color: darkgoldenrod;
+  border-width: 5px;
+  margin-left: 400px;
+  margin-top: -300px;
+}
+
+#classes {
+  color: navajowhite;
+  font-family: luminari, fantasy;
+}
+
+#color1 {
+  color: skyblue;
+}
+
+#color2 {
+  color: darkgoldenrod;
+}
+
+
 .style {
 	font-family: luminari, fantasy;
 		color: navajowhite;
