@@ -57,9 +57,33 @@
       margin: 2px;
       width: 250px;
       position: relative;
-      float: left;
       left: 495px;
-      flex-wrap: around;
+}
+
+.godbox {
+      display: flex;
+      flex-direction: row;
+      flex-warp: wrap;
+}
+
+.boxes33 {
+  font-family: luminari, fantasy;
+    text-align: center;
+    color: navajowhite;
+    background-color:#cccccc; 
+      padding: auto;
+      border: 15px solid whitesmoke;
+      margin: 2px;
+      width: 250px;
+      position: relative;
+      left: -266px;
+      top: 136px;
+}
+
+.godbox1 {
+      display: flex;
+      flex-direction: row;
+      flex-warp: wrap;
 }
 
 
