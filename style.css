@@ -1,4 +1,8 @@
 
+#sorceries {
+  color: navajowhite;
+}
+
 .styling {
   color: navajowhite;
   font-family: luminari, fantasy;
@@ -50,7 +54,7 @@ table, th, td {
 .about {
 	font-family: luminari, fantasy;
 		text-align: left;
-		color: navajowhite;
+		color: darkgoldenrod;
 		background-color:#cccccc; 
 	    padding: auto;
 	    border: 15px solid whitesmoke;
@@ -64,15 +68,21 @@ table, th, td {
     text-align: center;
     color: navajowhite;
     background-color:#cccccc; 
+    text-decoration: none;
       padding: auto;
       border: 15px solid whitesmoke;
       margin: 2px;
       width: 250px;
       position: relative;
-      left: 1125px;
-      top: -115px;
+      left: 1130px;
+      top: -550px;
       display: flex;
       flex-direction: column;
+}
+
+a {
+  color: navajowhite;
+  text-decoration: none;
 }
 
 .boxes2 {
@@ -86,7 +96,7 @@ table, th, td {
       width: 250px;
       position: relative;
       left: 1400px;
-      top: -500px;
+      top: -935px;
 }
 
 .boxes3 {
