@@ -6,21 +6,9 @@
 
 }
 
-.boxes123 {
-  font-family: luminari, fantasy;
-    text-align: center;
-    color: darkgoldenrod;
-    background-color:#cccccc; 
-    text-decoration: none;
-      padding: auto;
-      border: 15px solid whitesmoke;
-      margin: 2px;
-      width: 250px;
-      position: relative;
-      left: 1100px;
-      top: -550px;
-      display: flex;
-      flex-direction: column;
+.img {
+left: 500px;
+top: -40px;
 }
 
 
