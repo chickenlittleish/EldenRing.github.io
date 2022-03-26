@@ -2,6 +2,7 @@
   color: navajowhite;
   font-family: luminari, fantasy;
   text-align: center;
+  filter: brightness(1.0);
 
 }
 
@@ -73,7 +74,7 @@ table, th, td {
 .boxes {
   font-family: luminari, fantasy;
     text-align: center;
-    color: navajowhite;
+    color: darkgoldenrod;
     background-color:#cccccc; 
     text-decoration: none;
       padding: auto;
