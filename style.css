@@ -7,8 +7,11 @@
 }
 
 #img1 {
-left: 1130px;
-top: -550px;
+  position: relative; 
+  top: -10px;
+  left: 1425px;
+  width: 250px;
+  height: auto;
 }
 
 
